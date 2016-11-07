@@ -1,0 +1,1 @@
+!function(e){function o(r){if(n[r])return n[r].exports;var s=n[r]={exports:{},id:r,loaded:!1};return e[r].call(s.exports,s,s.exports,o),s.loaded=!0,s.exports}var n={};return o.m=e,o.c=n,o.p="/assets/service/",o(0)}([function(e,o,n){n(1),n(5),console.log("entry.js has been executed!")},function(e,o){},,,,function(e,o){console.log("service.js is ready!")}]);
