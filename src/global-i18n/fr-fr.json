@@ -1,0 +1,11 @@
+{
+  "menu": {
+    "home": {"name": "Accueil", "url": "/fr-fr/home/"},
+    "product": {"name": "Produit", "url": "/fr-fr/product/"},
+    "service": {"name": "Prestations de service", "url": "/fr-fr/service/"},
+    "contact": {"name": "Contact", "url": "/fr-fr/contact/"}
+  },
+  "footer": {
+    "copyright": "Voici le texte français du droit d'auteur. Tous les droits sont réservés."
+  }
+}

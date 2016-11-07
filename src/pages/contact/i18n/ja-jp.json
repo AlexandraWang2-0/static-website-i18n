@@ -1,0 +1,8 @@
+{
+  "title": "お問い合わせ",
+  "keywords": "webpack, node, react, javascript, i18n",
+  "description": "これは、国際化のためのデモページです",
+  "pageTitle": "世界こんにちは、これは、お問い合わせのページです",
+  "subTitle": "これはデモです、あなたはこのような新しいページを生成することができます.",
+  "btnText": "もっと詳しく知る"
+}

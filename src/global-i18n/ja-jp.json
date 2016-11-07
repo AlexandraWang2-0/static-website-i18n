@@ -1,0 +1,11 @@
+{
+  "menu": {
+    "home": {"name": "ホーム", "url": "/ja-jp/home/"},
+    "product": {"name": "製品", "url": "/ja-jp/product/"},
+    "service": {"name": "サービス", "url": "/ja-jp/service/"},
+    "contact": {"name": "接触", "url": "/ja-jp/contact/"}
+  },
+  "footer": {
+    "copyright": "ここでは、著作権のJPのテキストです。全著作権所有。"
+  }
+}

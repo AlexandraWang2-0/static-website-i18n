@@ -1,0 +1,11 @@
+{
+  "websiteRoot": "www.mysite.com",
+  "sourceRoot": "src",
+  "languageText": {
+    "en-us": "English",
+    "fr-fr": "Français",
+    "ja-jp": "日本語",
+    "ko-kr": "한국어",
+    "zh-cn": "简体中文"
+  }
+}

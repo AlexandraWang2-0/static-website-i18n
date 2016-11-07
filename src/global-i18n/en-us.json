@@ -1,0 +1,11 @@
+{
+  "menu": {
+    "home": {"name": "Home", "url": "/en-us/home/"},
+    "product": {"name": "Products", "url": "/en-us/product/"},
+    "service": {"name": "Services", "url": "/en-us/service/"},
+    "contact": {"name": "Contact", "url": "/en-us/contact/"}
+  },
+  "footer": {
+    "copyright": "Here is the text of copyright. All rights reserved."
+  }
+}

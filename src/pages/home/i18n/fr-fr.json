@@ -1,0 +1,7 @@
+{
+  "title": "page d'accueil",
+  "keywords": "webpack, node, react, javascript, i18n",
+  "description": "Descriptions pour la page d'accueil",
+  "slogan": "C'est le slogan du site",
+  "desc": "Il s'agit d'une démo pour afficher comment cet outil fonctionne"
+}

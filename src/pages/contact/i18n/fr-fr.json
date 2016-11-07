@@ -1,0 +1,8 @@
+{
+  "title": "Contactez nous",
+  "keywords": "webpack, node, react, javascript, i18n",
+  "description": "Ceci est la page de démonstration pour i18n.",
+  "pageTitle": "Bonjour, c'est la page de Contactez-nous",
+  "subTitle": "Il s'agit d'une démo, vous pouvez générer une nouvelle page comme celle-ci.",
+  "btnText": "Apprendre encore plus"
+}

@@ -1,0 +1,11 @@
+{
+  "menu": {
+    "home": {"name": "집", "url": "/en-us/home/"},
+    "product": {"name": "생성물", "url": "/en-us/product/"},
+    "service": {"name": "서비스", "url": "/en-us/service/"},
+    "contact": {"name": "접촉", "url": "/en-us/contact/"}
+  },
+  "footer": {
+    "copyright": "여기에 저작권의 JP 텍스트입니다. 판권 소유."
+  }
+}
