@@ -1,7 +1,7 @@
 {
   "name": "static-website-i18n-tool",
   "version": "1.0.0",
-  "description": "A tiny tool to generate a static website with i18n.",
+  "description": "A tiny tool to generate a static website with webpack. Make it i18n.",
   "main": "enter.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,7 +10,7 @@
     "webpack",
     "i18n"
   ],
-  "author": "Alexandra Wang",
+  "author": "Alex Wang",
   "license": "GNU",
   "devDependencies": {
     "copy-webpack-plugin": "^4.0.0",
