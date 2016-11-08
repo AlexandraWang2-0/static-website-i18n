@@ -20,7 +20,7 @@
   },
   "author": "Alexandra Wang",
   "license": "GNU",
-  "dependencies": {
+  "devDependencies": {
     "copy-webpack-plugin": "^4.0.0",
     "css-loader": "^0.25.0",
     "extract-text-webpack-plugin": "^1.0.1",
