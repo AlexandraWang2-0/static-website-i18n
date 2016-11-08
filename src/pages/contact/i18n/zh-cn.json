@@ -1,0 +1,8 @@
+{
+  "title": "联系我们",
+  "keywords": "webpack, node, react, javascript, i18n",
+  "description": "这是一个i18n的Demo页面，本页面是简体中文",
+  "pageTitle": "世界，你好！这是【联系我们】的页面",
+  "subTitle": "这是一个例子页面，你也可以照此生成其它页面。",
+  "btnText": "了解更多"
+}

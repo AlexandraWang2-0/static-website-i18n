@@ -48,6 +48,8 @@ Create 'index.html', and import public header & footer in it, just like the demo
 
 Create a directory named 'i18n', put json files with all the languages the new page supports in it. Notice that, json files must be named as the keys of the property 'languageText' in the global configuration. These json files' names would be part of the URI of the page, so be careful with it!
 
+For the current page you are developing, if you need a new version of another language for this page, just create a new json file in the 'i18n' directory, with variables displayed on the page.
+
 For css or js, put them in subdirectory 'css/' and 'js/', that would be more clear for the development. If you do not, you need to change the webpack configuration for it.
 
 Then you also need to make a directory named 'images' for all the images the new page needs. Make it and put your images in it. All the images, not only for css background-image, but also for html 'img' src attribute. Notice that, the images in css, would be compressed when webpack bundled, this is configured in 'webpack.config.js', if you want to change the quality of compression or you just want to remove them, just edit 'webpack.config.js'.
