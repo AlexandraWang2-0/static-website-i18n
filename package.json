@@ -17,9 +17,6 @@
   "author": "Alexandra Wang",
   "license": "GNU",
   "dependencies": {
-    "webpack": "^1.13.3"
-  },
-  "devDependencies": {
     "copy-webpack-plugin": "^4.0.0",
     "css-loader": "^0.25.0",
     "extract-text-webpack-plugin": "^1.0.1",
@@ -32,6 +29,7 @@
     "require-dir": "^0.3.1",
     "style-loader": "^0.13.1",
     "url-loader": "^0.5.7",
+    "webpack": "^1.13.3",
     "webpack-dev-server": "^1.16.2",
     "webpack-hot-middleware": "^2.13.1",
     "webpack-isomorphic-tools": "^2.6.4",
