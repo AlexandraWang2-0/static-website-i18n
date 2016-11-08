@@ -1,6 +1,6 @@
 {
   "name": "static-website-i18n",
-  "version": "2.2.0",
+  "version": "2.3.0",
   "description": "Generate a static website with webpack, and make it i18n.",
   "main": "index.js",
   "scripts": {
