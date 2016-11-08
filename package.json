@@ -1,6 +1,6 @@
 {
   "name": "static-website-i18n-tool",
-  "version": "1.1.2",
+  "version": "2.0.0",
   "description": "A tool to generate a static website with webpack, and make it i18n.",
   "main": "enter.js",
   "scripts": {
