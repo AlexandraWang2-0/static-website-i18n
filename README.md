@@ -4,7 +4,7 @@ static-website-i18n-tool
 This repository contains a tool for generating a static website with i18n done, which means one template, multi languages. [Check it out on Github](https://github.com/AlexandraWang2-0/static-website-i18n-tool.git).
 
 ### Installation
-npm install static-website-i18n-tool
+npm install static-website-i18n
 
 ### Global configuration
 
